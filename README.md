@@ -15,8 +15,8 @@ Aqui estão alguns dos projetos mais completos que desenvolvi:
 
 | Projeto | Descrição | Tecnologias Principais |
 | :--- | :--- | :--- |
-| **[Cap.Com-Itaquaquecetuba](https://github.com/ArthurS357/Cap.Com-Itaquaquecetuba)** | Website institucional completo desenvolvido para a CapCom de Itaquaquecetuba. | Next.js, React, TypeScript, Tailwind CSS, Prisma |
-| **[ArtStore](https://github.com/ArthurS357/ArtStore)** | E-commerce de camisetas moderno com integração de pagamento (Stripe). | Next.js, React, TypeScript, Stitches, Stripe |
+| **[Cap.Com-Itaquaquecetuba](https://github.com/ArthurS357/Cap.Com-Itaquaquecetuba)** | Website institucional completo desenvolvido para a CapCom de Itaquaquecetuba. | Next.js, React, TypeScript, Vitest, Tailwind CSS, Prisma |
+| **[ArtStore](https://github.com/ArthurS357/ArtStore)** | E-commerce de imagens moderno com integração de pagamento (Stripe). | Next.js, React, TypeScript, Tailwind CSS, Prisma |
 
 ---
 
