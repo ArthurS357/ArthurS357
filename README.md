@@ -9,9 +9,9 @@ Estou sempre focado em construir aplicações web modernas e seguras.
 
 ---
 
-### 🚀 Meus Projetos em Destaque
+### 🚀 Meus Projetos Principais
 
-Aqui estão alguns dos projetos mais completos que desenvolvi:
+Aqui estão alguns dos projetos mais completos e recentes que desenvolvi:
 
 | Projeto | Descrição | Tecnologias Principais |
 | :--- | :--- | :--- |
@@ -20,10 +20,23 @@ Aqui estão alguns dos projetos mais completos que desenvolvi:
 
 ---
 
+### 🎓 Jornada de Aprendizado (Projetos Acadêmicos e Fundamentais)
+
+Estes são os projetos da minha faculdade que construíram minha base e mostram minha evolução:
+
+| Repositório | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| **[QuickAdd](https://github.com/ArthurS357/QuickAdd)** | Meu 2º projeto full-stack: um sistema de gestão com API e front-end. | Node.js, TypeScript, TypeORM, PostgreSQL, JavaScript, HTML/CSS |
+| **[introducao-poo-java](httpsK://github.com/ArthurS357/programa-o-orientada-ao-objeto)** | Meu 1º projeto web (4º semestre). Um CRUD de produtos. | Java, JSP, HTML, CSS, MySQL |
+| **[introducao-programacao-python](httpsK://github.com/ArthurS357/codes)** | Meus primeiros códigos (1º semestre). Exercícios de lógica. | Python (Condicionais, Loops, Scripts) |
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
-Estas são as tecnologias que mais utilizo no meu dia a dia:
+Estas são as tecnologias que mais utilizo no meu dia a dia e que usei nos meus projetos:
 
+**Front-End & Mobile:**
 <p align="left">
   <a href="https://react.dev/" target="_blank">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
@@ -34,26 +47,46 @@ Estas são as tecnologias que mais utilizo no meu dia a dia:
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   </a>
-  
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
   </a>
   <a href="https://stitches.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Stitches-202020?style=for-the-badge&logo=stitches&logoColor=white" alt="Stitches">
   </a>
-  
+</p>
+
+**Back-End & Banco de Dados:**
+<p align="left">
   <a href="https://nodejs.org/en" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   </a>
   <a href="https://www.prisma.io/" target="_blank">
     <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
   </a>
+  <a href="https://typeorm.io/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeORM-FF2C22?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM">
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+</p>
+
+**Fundamentos & Outras:**
+<p align="left">
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
 </p>
 
 ---
 
 ### 📊 Minhas Estatísticas no GitHub
-
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ArthurS357&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de ArthurS357">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurS357&layout=compact&theme=dracula&langs_count=6" alt="Linguagens Mais Usadas por ArthurS357">
@@ -61,8 +94,9 @@ Estas são as tecnologias que mais utilizo no meu dia a dia:
 
 ---
 
-### 📫 Como me encontrar
 
+
+### 📫 Como me encontrar
 <p align="left">
   <a href="https://www.linkedin.com/in/arthur-sabino1337-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
