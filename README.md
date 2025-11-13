@@ -17,6 +17,7 @@ Aqui estão alguns dos projetos mais completos e recentes que desenvolvi:
 | :--- | :--- | :--- |
 | **[Cap.Com-Itaquaquecetuba](https://github.com/ArthurS357/Cap.Com-Itaquaquecetuba)** | Website institucional completo desenvolvido para a CapCom de Itaquaquecetuba. | Next.js, React, TypeScript, Vitest, Tailwind CSS, Prisma |
 | **[ArtStore](https://github.com/ArthurS357/ArtStore)** | E-commerce de imagens moderno com integração de pagamento (Stripe). | Next.js, React, TypeScript, Tailwind CSS, Prisma |
+| **[Análise Pima Diabetes (Congresso UMC)](https://github.com/ArthurS357/analise-pima-diabetes-svm)** | Análise de ML (6º semestre) apresentada no congresso UMC Summit. Foco na estabilidade de modelos SVM. | Python, Scikit-learn, Pandas |
 
 ---
 
@@ -26,6 +27,7 @@ Estes são os projetos da minha faculdade que construíram minha base e mostram 
 
 | Repositório | Descrição | Tecnologias |
 | :--- | :--- | :--- |
+| **[introducao-machine-learning](https://github.com/ArthurS357/introducao-machine-learning)** | Estudos de ML (6º semestre). Análise de datasets (Titanic, Cogumelos, Vinhos). | Python, Scikit-learn, Pandas |
 | **[QuickAdd](https://github.com/ArthurS357/QuickAdd)** | Meu 2º projeto full-stack (5º semestre): um sistema de gestão com API e front-end. | Node.js, TypeScript, TypeORM, PostgreSQL, JavaScript, HTML/CSS |
 | **[introducao-poo-java](https://github.com/ArthurS357/introducao-poo-java)** | Meu 1º projeto web (4º semestre). Um CRUD de produtos. | Java, JSP, HTML, CSS, MySQL |
 | **[introducao-programacao-python](https://github.com/ArthurS357/introducao-programacao-python)** | Meus primeiros códigos (1º semestre). Exercícios de lógica. | Python (Condicionais, Loops, Scripts) |
@@ -33,8 +35,6 @@ Estes são os projetos da minha faculdade que construíram minha base e mostram 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-
-Estas são as tecnologias que mais utilizo no meu dia a dia e que usei nos meus projetos:
 
 **Front-End & Mobile:**
 <p align="left">
@@ -74,6 +74,22 @@ Estas são as tecnologias que mais utilizo no meu dia a dia e que usei nos meus 
   </a>
 </p>
 
+**Data Science & Machine Learning:**
+<p align="left">
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+  </a>
+  <a href="https://matplotlib.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Matplotlib-013762?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  </a>
+</p>
+
 **Fundamentos & Outras:**
 <p align="left">
   <a href="https://www.java.com/" target="_blank">
@@ -94,9 +110,8 @@ Estas são as tecnologias que mais utilizo no meu dia a dia e que usei nos meus 
 
 ---
 
-
-
 ### 📫 Como me encontrar
+
 <p align="left">
   <a href="https://www.linkedin.com/in/arthur-sabino1337-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
