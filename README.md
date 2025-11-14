@@ -28,7 +28,7 @@ Estes são os projetos da minha faculdade que construíram minha base e mostram 
 | Repositório | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | **[introducao-machine-learning](https://github.com/ArthurS357/introducao-machine-learning)** | Estudos de ML (6º semestre). Análise de datasets (Titanic, Cogumelos, Vinhos). | Python, Scikit-learn, Pandas |
-| **[QuickAdd](https://github.com/ArthurS357/QuickAdd)** | Meu 2º projeto full-stack (5º semestre): um sistema de gestão com API e front-end. | Node.js, TypeScript, TypeORM, PostgreSQL, JavaScript, HTML/CSS |
+| **[QuickAdd](https://github.com/ArthurS357/QuickAdd)** | Meu 2º projeto full-stack (4º semestre): um sistema de gestão com API e front-end. | Node.js, TypeScript, TypeORM, PostgreSQL, JavaScript, HTML/CSS |
 | **[introducao-poo-java](https://github.com/ArthurS357/introducao-poo-java)** | Meu 1º projeto web (4º semestre). Um CRUD de produtos. | Java, JSP, HTML, CSS, MySQL |
 | **[introducao-programacao-python](https://github.com/ArthurS357/introducao-programacao-python)** | Meus primeiros códigos (1º semestre). Exercícios de lógica. | Python (Condicionais, Loops, Scripts) |
 
