@@ -1,122 +1,89 @@
-### Olá, eu sou o Arthur! 👋
+<div align="center">
+  <h2>Olá, eu sou o Arthur! 👋</h2>
+  
+  <p>
+    <strong>Auditoria de Cibersegurança | Engenharia de Software | Full Stack Developer</strong>
+  </p>
 
-Sou Desenvolvedor e estudante de Engenharia de Software, com uma grande paixão pela área de Cybersegurança e desenvolvimento de Software.
-Estou sempre focado em construir aplicações web modernas e seguras.
-
-<p align="left">
-  <strong>Desenvolvedor de Software | Engenharia de Software | Cybersegurança</strong>
-</p>
+  <p>
+    <a href="https://www.linkedin.com/in/arthur-sabino1337-" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="mailto:arthursabino5342@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+  </p>
+</div>
 
 ---
 
-### 🚀 Meus Projetos Principais
+### 👨‍💻 Sobre Mim
 
-Aqui estão alguns dos projetos mais completos e recentes que desenvolvi:
+Atualmente estou no **6º semestre de Engenharia de Software** e iniciando minha carreira na área de **Auditoria de Cibersegurança**. Tenho uma base sólida em desenvolvimento Full Stack e uma paixão crescente por Machine Learning e Segurança da Informação.
 
-| Projeto | Descrição | Tecnologias Principais |
+Meu foco é unir o conhecimento de construção de software (Web/Mobile) com as melhores práticas de segurança e análise de dados.
+
+---
+
+### 🚀 Destaques e Projetos Principais
+
+Projetos completos onde apliquei arquiteturas modernas e resolvi problemas reais:
+
+| Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Cap.Com-Itaquaquecetuba](https://github.com/ArthurS357/Cap.Com-Itaquaquecetuba)** | Website institucional completo desenvolvido para a CapCom de Itaquaquecetuba. | Next.js, React, TypeScript, Vitest, Tailwind CSS, Prisma |
-| **[ArtStore](https://github.com/ArthurS357/ArtStore)** | E-commerce de imagens moderno com integração de pagamento (Stripe). | Next.js, React, TypeScript, Tailwind CSS, Prisma |
-| **[Análise Pima Diabetes (Congresso UMC)](https://github.com/ArthurS357/analise-pima-diabetes-svm)** | Análise de ML (6º semestre) apresentada no congresso UMC Summit. Foco na estabilidade de modelos SVM. | Python, Scikit-learn, Pandas |
+| **[Cap.Com-Itaquaquecetuba](https://github.com/ArthurS357/Cap.Com-Itaquaquecetuba)** | 🏢 **Institucional:** Website completo para a CapCom Itaquaquecetuba. Foco em performance e SEO. | Next.js, TypeScript, Tailwind, Vitest |
+| **[ArtStore](https://github.com/ArthurS357/ArtStore)** | 🛒 **E-commerce:** Plataforma de venda de imagens com integração de pagamentos via Stripe. | Next.js, React, Prisma, Stripe |
+| **[Análise Pima Diabetes](https://github.com/ArthurS357/analise-pima-diabetes-svm)** | 🔬 **Científico:** Estudo sobre estabilidade de modelos SVM, apresentado no **Congresso UMC Summit**. | Python, Pandas, Scikit-learn, SVM |
 
 ---
 
-### 🎓 Jornada de Aprendizado (Projetos Acadêmicos e Fundamentais)
+### 🎓 Linha do Tempo Acadêmica
 
-Estes são os projetos da minha faculdade que construíram minha base e mostram minha evolução:
+Minha evolução técnica através dos semestres:
 
-| Repositório | Descrição | Tecnologias |
-| :--- | :--- | :--- |
-| **[introducao-machine-learning](https://github.com/ArthurS357/introducao-machine-learning)** | Estudos de ML (6º semestre). Análise de datasets (Titanic, Cogumelos, Vinhos). | Python, Scikit-learn, Pandas |
-| **[QuickAdd](https://github.com/ArthurS357/QuickAdd)** | Meu 2º projeto full-stack (4º semestre): um sistema de gestão com API e front-end. | Node.js, TypeScript, TypeORM, PostgreSQL, JavaScript, HTML/CSS |
-| **[introducao-poo-java](https://github.com/ArthurS357/introducao-poo-java)** | Meu 1º projeto web (3º semestre). Um CRUD de produtos. | Java, JSP, HTML, CSS, MySQL |
-| **[introducao-programacao-python](https://github.com/ArthurS357/introducao-programacao-python)** | Meus primeiros códigos (1º semestre). Exercícios de lógica. | Python (Condicionais, Loops, Scripts) |
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Front-End & Mobile:**
-<p align="left">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-  </a>
-  <a href="https://stitches.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Stitches-202020?style=for-the-badge&logo=stitches&logoColor=white" alt="Stitches">
-  </a>
-</p>
-
-**Back-End & Banco de Dados:**
-<p align="left">
-  <a href="https://nodejs.org/en" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-  </a>
-  <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
-  </a>
-  <a href="https://typeorm.io/" target="_blank">
-    <img src="https://img.shields.io/badge/TypeORM-FF2C22?style=for-the-badge&logo=typeorm&logoColor=white" alt="TypeORM">
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  </a>
-</p>
-
-**Data Science & Machine Learning:**
-<p align="left">
-  <a href="https://pandas.pydata.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-  </a>
-  <a href="https://matplotlib.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Matplotlib-013762?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
-  </a>
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  </a>
-</p>
-
-**Fundamentos & Outras:**
-<p align="left">
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  </a>
-</p>
+| Semestre | Projeto | Foco do Aprendizado |
+| :---: | :--- | :--- |
+| **6º** | **[Intro Machine Learning](https://github.com/ArthurS357/introducao-machine-learning)** | Análise de dados complexos (Titanic, Cogumelos) e algoritmos preditivos. |
+| **4º** | **[QuickAdd](https://github.com/ArthurS357/QuickAdd)** | Desenvolvimento Full Stack com API RESTful e gestão de estado. |
+| **3º** | **[Intro POO Java](https://github.com/ArthurS357/introducao-poo-java)** | CRUD clássico e fundamentos de Orientação a Objetos com Java/JSP. |
+| **1º** | **[Intro Python](https://github.com/ArthurS357/introducao-programacao-python)** | Lógica de programação, scripts e automação básica. |
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ArthurS357&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub de ArthurS357">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurS357&layout=compact&theme=dracula&langs_count=6" alt="Linguagens Mais Usadas por ArthurS357">
-</p>
+### 🛠️ Arsenal Tecnológico
+
+<div align="left">
+
+**Front-End & Mobile**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+<img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
+
+**Back-End & Dados**
+<br>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+
+**Data Science & AI**
+<br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit">
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+
+</div>
 
 ---
 
-### 📫 Como me encontrar
+### 📊 Minhas Estatísticas
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/arthur-sabino1337-" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:arthursabino5342@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurS357&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&hide_border=true&hide_rank=false" alt="Estatísticas do Arthur" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurS357&layout=compact&theme=dracula&hide_border=true&langs_count=6&hide=html,css,jupyter%20notebook" alt="Linguagens mais usadas" />
+</div>
