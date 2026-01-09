@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Sobre Mim
 
-Atualmente estou no **6º semestre de Engenharia de Software** e iniciando minha carreira na área de **Auditoria de Cibersegurança**. Tenho uma base sólida em desenvolvimento Full Stack e uma paixão crescente por Machine Learning e Segurança da Informação.
+Atualmente estou no **7º semestre de Engenharia de Software** e iniciando minha carreira na área de **Auditoria de Cibersegurança**. Tenho uma base sólida em desenvolvimento Full Stack e uma paixão crescente por Machine Learning e Segurança da Informação.
 
 Meu foco é unir o conhecimento de construção de software (Web/Mobile) com as melhores práticas de segurança e análise de dados.
 
