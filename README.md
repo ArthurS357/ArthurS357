@@ -31,9 +31,9 @@ Projetos completos onde apliquei arquiteturas modernas e resolvi problemas reais
 
 | Projeto | Descrição | Stack |
 | :--- | :--- | :--- |
-| **[Cap.Com-Itaquaquecetuba](https://github.com/ArthurS357/Cap.Com-Itaquaquecetuba)** | 🏢 **Institucional:** Website completo para a CapCom Itaquaquecetuba. Foco em performance e SEO. | Next.js, TypeScript, Tailwind, Vitest |
-| **[FinLove](https://github.com/ArthurS357/fin-love)** | 💰 **Finanças:** Aplicação de controle financeiro para casais, com gestão de metas e investimentos compartilhados. | Next.js, TypeScript, Tailwind |
-| **[Imobiliária MVP](https://github.com/ArthurS357/imobiliaria-mvp)** | 🏠 **Plataforma:** MVP para gestão de imóveis, facilitando a conexão entre locadores e locatários. | Next.js, React, Prisma |
+| **[Cap.Com-Itaquaquecetuba](https://cap-com-itaquaquecetuba.vercel.app/)** | 🏢 **Institucional:** Website completo para a CapCom Itaquaquecetuba. Foco em performance e SEO. | Next.js, TypeScript, Tailwind, Vitest |
+| **[FinLove](https://finlove-one.vercel.app/)** | 💰 **Finanças:** Aplicação de controle financeiro para casais, com gestão de metas e investimentos compartilhados. | Next.js, TypeScript, Tailwind |
+| **[Imobiliária MVP](https://www.matielloimoveis.com.br/)** | 🏠 **Plataforma:** MVP para gestão de imóveis, facilitando a conexão entre locadores e locatários. | Next.js, React, Prisma |
 | **[Análise Pima Diabetes](https://github.com/ArthurS357/analise-pima-diabetes-svm)** | 🔬 **Científico:** Estudo sobre estabilidade de modelos SVM, apresentado no **Congresso UMC Summit**. | Python, Pandas, Scikit-learn, SVM |
 
 ---
