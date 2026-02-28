@@ -35,6 +35,7 @@ Projetos completos onde apliquei arquiteturas modernas e resolvi problemas reais
 | **[LoveLedger](https://finlove-one.vercel.app/)** | 💰 **Finanças:** Aplicação de controle financeiro para casais, com gestão de metas e investimentos compartilhados. | Next.js, TypeScript, Tailwind |
 | **[Matiello Imov](https://www.matielloimoveis.com.br/)** | 🏠 **Plataforma:** MVP para gestão de imóveis, facilitando a conexão entre locadores e locatários. | Next.js, React, Prisma |
 | **[Análise Pima Diabetes](https://github.com/ArthurS357/analise-pima-diabetes-svm)** | 🔬 **Científico:** Estudo sobre estabilidade de modelos SVM, apresentado no **Congresso UMC Summit**. | Python, Pandas, Scikit-learn, SVM |
+| **[ArtStore](https://github.com/ArthurS357/ArtStore)** | 🎨 **E-commerce:** Uma plataforma de e-commerce para venda de arte digital. | Next.js 14, TypeScript, Prisma, TailwindCSS |
 
 ---
 
