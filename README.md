@@ -44,7 +44,7 @@ Atualmente no **7º semestre de Engenharia de Software** e iniciando minha jorna
 
 > 🔭 **Atualmente trabalhando em:** Projetos de auditoria e segurança de aplicações web.  
 > 🌱 **Aprendendo:** Pentesting, Security Compliance (ISO 27001) e Deep Learning.  
-> 🎯 **Objetivo 2025:** Unir DevSecOps com soluções inteligentes de Machine Learning.
+> 🎯 **Objetivo 2026:** Unir DevSecOps com soluções inteligentes de Machine Learning.
 
 💡 **Filosofia:** *"Code with security in mind, deploy with confidence."*
 
