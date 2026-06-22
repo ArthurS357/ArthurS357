@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=header&text=Arthur%20Sabino&fontSize=50&fontColor=fff" width="100%"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Arthur!+%F0%9F%91%8B;Auditor+de+Ciberseguran%C3%A7a;Engenharia+de+Software;Full+Stack+Developer;Machine+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Arthur!+%F0%9F%91%8B;Auditor+de+Ciberseguran%C3%A7a;Engenharia+de+Software;Full+Stack+Developer;Machine+Learning+Enthusiast;IoT+%26+Sistemas+Embarcados" alt="Typing SVG" />
 
   <br/>
   <p>
@@ -32,18 +32,19 @@
 ```typescript
 const arthur = {
   currentRole: "Auditor de Cibersegurança Jr.",
-  education: "Engenharia de Software - 7º Semestre",
-  focus: ["Full Stack Development", "Cybersecurity", "Machine Learning"],
+  education: "Engenharia de Software - 8º Semestre",
+  focus: ["Full Stack Development", "Cybersecurity", "Machine Learning", "IoT"],
   learning: ["Pentesting", "Cloud Security (AWS)", "DevSecOps"],
   hobbies: ["Open Source", "CTF Challenges", "Tech Writing"],
   funFact: "Acredito que segurança começa no código!"
 };
 ```
 
-Atualmente no **7º semestre de Engenharia de Software** e iniciando minha jornada profissional em **Auditoria de Cibersegurança**. Minha missão é construir aplicações seguras, escaláveis e com código limpo, unindo desenvolvimento Full Stack com as melhores práticas de segurança da informação.
+Atualmente no **8º semestre de Engenharia de Software** e iniciando minha jornada profissional em **Auditoria de Cibersegurança**. Minha missão é construir aplicações seguras, escaláveis e com código limpo, unindo desenvolvimento Full Stack com as melhores práticas de segurança da informação.
 
 > 🔭 **Atualmente trabalhando em:** Projetos de auditoria e segurança de aplicações web.  
 > 🌱 **Aprendendo:** Pentesting, Security Compliance (ISO 27001) e Deep Learning.  
+> ✅ **Concluído (7º semestre):** Internet of Things (IoT) — automação residencial com ESP32, MQTT e dashboards em tempo real.  
 > 🎯 **Objetivo 2026:** Unir DevSecOps com soluções inteligentes de Machine Learning.
 
 💡 **Filosofia:** *"Code with security in mind, deploy with confidence."*
@@ -54,12 +55,60 @@ Atualmente no **7º semestre de Engenharia de Software** e iniciando minha jorna
 
 ## 🚀 Projetos em Destaque
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="100%">
+        <h3 align="center">💜 Love Ledger &nbsp;•&nbsp; Finanças a Dois</h3>
+        <div align="center">
+          <a href="https://loveledger.com.br/" target="_blank">
+            <img src="https://img.shields.io/badge/Ver_Projeto_ao_Vivo-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Projeto ao Vivo">
+          </a>
+          <p><strong>⭐ Projeto em Destaque &nbsp;|&nbsp; Plataforma de Gestão Financeira para Casais</strong></p>
+          <p>🤖 Coach financeiro com IA (Gemini) &nbsp;•&nbsp; 💑 Modo Casal (Sync) com Caixa dos Sonhos &nbsp;•&nbsp; 🔐 2FA TOTP, AES-256-GCM &amp; conformidade LGPD &nbsp;•&nbsp; 🏆 Gamificação</p>
+          <p>
+            <code>Next.js 16</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code> <code>Tailwind</code> <code>Gemini AI</code> <code>Pluggy</code> <code>Zod</code>
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
 <table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">💍 Felice</h3>
+      <div align="center">
+        <a href="https://sistema-casamento-pearl.vercel.app/dashboard" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_Projeto-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Projeto">
+        </a>
+        <p><strong>SaaS Multi-Tenant para Casamentos</strong></p>
+        <p>💌 RSVP público tokenizado, gestão de convidados, mesas e orçamento</p>
+        <p>
+          <code>Next.js 15</code> <code>React 19</code> <code>NextAuth 5</code> <code>Stripe</code> <code>Prisma</code>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">🤖 Santander ML Pipeline</h3>
+      <div align="center">
+        <a href="https://github.com/ArthurS357/santander-ml-pipeline" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+        </a>
+        <p><strong>Pipeline MLOps — Predição de Diabetes</strong></p>
+        <p>🎓 Certificação Academia Santander • 94% de cobertura • Monitoramento de drift (PSI)</p>
+        <p>
+          <code>Python</code> <code>FastAPI</code> <code>MLflow</code> <code>Docker</code> <code>Kubernetes</code>
+        </p>
+      </div>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center">🏢 Cap.Com Itaquaquecetuba</h3>
       <div align="center">
-        <a href="https://cap-com-itaquaquecetuba.vercel.app/" target="_blank">
+        <a href="https://capcomitaqua.com.br/" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Projeto-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Projeto">
         </a>
         <p><strong>Website Institucional Completo</strong></p>
@@ -70,15 +119,15 @@ Atualmente no **7º semestre de Engenharia de Software** e iniciando minha jorna
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">💰 LoveLedger</h3>
+      <h3 align="center">💇 LM Lu Matiello</h3>
       <div align="center">
-        <a href="https://loveledger-one.vercel.app/" target="_blank">
+        <a href="https://www.lmlumatiello.com.br/" target="_blank">
           <img src="https://img.shields.io/badge/Ver_Projeto-A855F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver Projeto">
         </a>
-        <p><strong>SaaS de Finanças para Casais</strong></p>
-        <p>💑 Gestão de metas e investimentos compartilhados</p>
+        <p><strong>Gestão Integrada para Salões de Beleza</strong></p>
+        <p>📅 Agendamentos, motor financeiro com comissões &amp; RBAC granular</p>
         <p>
-          <code>Next.js</code> <code>TypeScript</code> <code>Prisma</code> <code>PostgreSQL</code>
+          <code>Next.js 16</code> <code>React 19</code> <code>Prisma</code> <code>Tailwind 4</code> <code>shadcn/ui</code>
         </p>
       </div>
     </td>
@@ -149,11 +198,49 @@ Atualmente no **7º semestre de Engenharia de Software** e iniciando minha jorna
 
 | Período | Projeto Destaque | Tecnologias | Competências Desenvolvidas |
 |:-------:|:----------------|:------------|:---------------------------|
-| **7º Semestre** | Em andamento | - | Auditoria de Segurança, Pentesting, ISO 27001 |
+| **8º Semestre** 🔄 | Em andamento | — | TCC, DevSecOps e Machine Learning aplicado |
+| **7º Semestre** ✅ | [Automação Residencial M2](https://github.com/ArthurS357/automacao-residencial-m2) · [Dimmer App](https://github.com/ArthurS357/dimmer-app) | ESP32, MicroPython, MQTT, React, Flask | IoT, Sensores & Atuadores, Comunicação sem fio (WiFi/MQTT/HTTP), Dashboards |
 | **6º Semestre** | [Intro Machine Learning](https://github.com/ArthurS357/introducao-machine-learning) | Python, Pandas, Scikit-learn | Análise preditiva, SVM, Random Forest, Feature Engineering |
 | **4º Semestre** | [QuickAdd](https://github.com/ArthurS357/QuickAdd) | Node.js, React, API REST | Arquitetura Full Stack, Autenticação JWT, CRUD |
 | **3º Semestre** | [Intro POO Java](https://github.com/ArthurS357/introducao-poo-java) | Java, JSP, MySQL | CRUD clássico, Padrões de Projeto (MVC) |
 | **1º Semestre** | [Intro Python](https://github.com/ArthurS357/introducao-programacao-python) | Python | Lógica de programação, Automação, Scripts |
+
+<br>
+
+### 🌐 Destaque do 7º Semestre — Internet of Things (IoT)
+
+> No 7º semestre, mergulhei em **Internet of Things (IoT)**, construindo um ecossistema de **automação residencial** ponta a ponta: do firmware embarcado nos sensores e atuadores até dashboards de controle em tempo real, integrando comunicação sem fio (WiFi, MQTT e HTTP).
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏠 Automação Residencial M2</h3>
+      <div align="center">
+        <a href="https://github.com/ArthurS357/automacao-residencial-m2" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+        </a>
+        <p><strong>Casa Inteligente com ESP32</strong></p>
+        <p>🌡️ Monitoramento de sensores (temperatura, umidade, presença, luz) • Display OLED • Telemetria MQTT • Modo automático</p>
+        <p>
+          <code>ESP32</code> <code>MicroPython</code> <code>MQTT</code> <code>Wokwi</code> <code>HTTP</code>
+        </p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">💡 Dimmer App</h3>
+      <div align="center">
+        <a href="https://github.com/ArthurS357/dimmer-app" target="_blank">
+          <img src="https://img.shields.io/badge/Ver_C%C3%B3digo-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver Código">
+        </a>
+        <p><strong>Dashboard IoT — Dimmer & Controle de Relé</strong></p>
+        <p>🔆 Controle de intensidade 0–100% • Acionamento automático de relé • Métricas de consumo (W) em tempo real</p>
+        <p>
+          <code>React</code> <code>TypeScript</code> <code>Vite</code> <code>Flask</code> <code>Recharts</code>
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -193,6 +280,13 @@ Atualmente no **7º semestre de Engenharia de Software** e iniciando minha jorna
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+### 🌐 IoT & Sistemas Embarcados
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 </div>
 
